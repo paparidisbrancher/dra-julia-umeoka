@@ -1,0 +1,2 @@
+# Sem conversão de fim de linha: a assinatura (integrity) do React depende dos bytes exatos.
+vendor/** -text
