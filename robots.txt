@@ -1,5 +1,6 @@
+# Em aprovação, a página fica fora do Google pela marcação "noindex" do index.html.
+# Este arquivo passa a valer no domínio próprio (no GitHub Pages o Google lê só o robots.txt da raiz).
 User-agent: *
 Allow: /
 
-# Depois de definir o domínio final, descomente:
-# Sitemap: https://DOMINIO-FINAL/sitemap.xml
+Sitemap: https://paparidisbrancher.github.io/dra-julia-umeoka/sitemap.xml
